@@ -1,0 +1,17 @@
+{
+    "root": "src",
+    "title": "PHIL101: Contemporary Moral Issues",
+    "description": "Notes from the Fall 2018 offering of PHIL101 at Rice University.",
+    "author": "Gabriel Vacaliuc",
+    "plugins": [
+        "edit-link",
+        "embed-pdf",
+        "underline"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+          "base": "https://github.com/rice-notes/phil101-f18/tree/master/src",
+          "label": "edit"
+        }
+    }
+}
