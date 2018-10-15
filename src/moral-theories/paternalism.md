@@ -10,7 +10,8 @@ a group if it is decided that such freedoms can harm individuals or society.
 
 ## Distinctions
 
-Paternalism is described in two different forms.
+Paternalism is generally described by two different forms: Pure and impure
+paternalism.
 
 ### Pure Paternalism
 
@@ -65,3 +66,19 @@ overriding their *surface preferences* for their true *deeper preferences*.
 
 * Surface Preference: Smoking cigarettes
 * Deeper Preference: Staying alive and bodily intact
+
+## Settled Preferences
+
+Other times, a person's current desires are **almost certain** to change in the
+future, e.g. a teenager's choices are very likely to change at a later date.
+Goodin argues paternalism is permissible to apply in cases such as these.
+
+## Preferred Preferences
+
+People have lots preferences and some are conflicting.  Many smokers want to
+try to quit smoking, but continue smoking because they "locally" want a
+cigarette, but not in a long-term view.  Here Goodin also permits the
+possibility of paternalism. An open question - how sure does one have to be to
+permit this?
+
+
