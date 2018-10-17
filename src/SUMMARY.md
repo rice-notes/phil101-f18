@@ -12,6 +12,7 @@
     * [Genetic Enhancement](./life/genetic-enhancement.md)
 * [Morality and Death](./death/README.md)
     * [Death Penalty](./death/death-penalty.md)
+    * [Euthanasia](./death/euthanasia.md)
 * [Morality and the Natural World](./natural-world/README.md)
 * [Morality and the International Arena](./international-arena/README.md)
 * [Morality and Sexuality](./sexuality/README.md)
